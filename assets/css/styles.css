@@ -543,3 +543,7 @@ iframe {
     width: 1360px;
   }
 }
+
+.circular-image {
+  border-radius:  50%;
+}
